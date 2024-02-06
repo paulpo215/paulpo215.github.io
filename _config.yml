@@ -4,6 +4,8 @@ safe: true
 source: paulpo215.github.io/
 incremental: false
 highlighter: rouge
+title: Game Phylactery 
+tagline: Open up, and see what awaits you inside
 gist:
   noscript: false
 kramdown:
