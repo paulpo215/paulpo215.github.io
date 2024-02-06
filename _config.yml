@@ -1,11 +1,11 @@
-brace the p[theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 lsi: false
 safe: true
 source: paulpo215.github.io/
 incremental: false
 highlighter: rouge
 title: Game Phylactery 
-description:  Open the box, and embrace the power within
+description:  Open the box and embrace the power within
 gist:
   noscript: false
 kramdown:
