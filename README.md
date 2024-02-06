@@ -26,7 +26,7 @@ Game Phylactery is a small, dedicated group of Game Masters and organizers that 
 <details>
   <summary>  Murder of the Transcontinental
   </summary> 
-  There has been a murder! it is mayham on the train, with everyone trying to accomplish their own tasks, solve the murder, or just get by without being the next victim of  <a href="paulpo215.github.io/murder">Murder on the Transcontinental</a>
+  There has been a murder! it is mayham on the train, with everyone trying to accomplish their own tasks, solve the murder, or just get by without being the next victim of  <a href="https://paulpo215.github.io/murder">Murder on the Transcontinental</a>
   </details>
   <details>
   <summary>  Speakeasy of Lies
