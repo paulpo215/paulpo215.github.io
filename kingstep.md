@@ -1,8 +1,6 @@
 ---
-layout: page
-title: "The Fall of King's Step"
-permalink: /kingstep
-theme: jekyll-theme-slate
+layout: post
+title: Blogging Like a Hacker
 ---
 # The Fall of King's Step
 
