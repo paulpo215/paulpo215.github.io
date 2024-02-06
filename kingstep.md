@@ -2,6 +2,7 @@
 layout: page
 title: "The Fall of King's Step"
 permalink: /kingstep
+theme: jekyll-theme-slate
 ---
 # The Fall of King's Step
 
