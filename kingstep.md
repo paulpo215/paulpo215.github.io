@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: King's Step
+theme: jekyll-theme-slate
 ---
 # The Fall of King's Step
 
