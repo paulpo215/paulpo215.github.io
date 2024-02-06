@@ -31,7 +31,7 @@ Game Phylactery is a small, dedicated group of Game Masters and organizers that 
   <details>
   <summary>  Speakeasy of Lies
   </summary>
-  It's the roaring 20s, prohibition  <a href="speakeasy.md">Speakeasy of Lies</a>
+  It's the roaring 20s, prohibition  <a href="paulpo215.github.io/speakeasy.md">Speakeasy of Lies</a>
   </details>
 
 ## Other
