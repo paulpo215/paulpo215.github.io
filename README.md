@@ -18,7 +18,7 @@ Game Phylactery is a small, dedicated group of Game Masters and organizers that 
   <details>
   <summary>  The Fall of King's Step 
   </summary> 
-  The hordes of demons have been sweeping across the land, cities have falled one by one, now King's Step is the next on their path. The king and court have abandoned the city, taking the army with them, now the town is defended only by a small garrison and whatever people are too poor to escape with the nobility. will you try and save the city? loot what you can and get out with your life? who will you be, during  <a href="kingstep.md">The Fall of King's Step</a>
+  The hordes of demons have been sweeping across the land, cities have falled one by one, now King's Step is the next on their path. The king and court have abandoned the city, taking the army with them, now the town is defended only by a small garrison and whatever people are too poor to escape with the nobility. will you try and save the city? loot what you can and get out with your life? who will you be, during  <a href="/kingstep">The Fall of King's Step</a>
   </details>
 
 
