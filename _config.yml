@@ -5,7 +5,7 @@ source: paulpo215.github.io/
 incremental: false
 highlighter: rouge
 title: Game Phylactery 
-description:  Open it, and see what awaits you inside
+description:  Open the box, and see what awaits you inside
 gist:
   noscript: false
 kramdown:
