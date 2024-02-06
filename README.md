@@ -38,5 +38,5 @@ Game Phylactery is a small, dedicated group of Game Masters and organizers that 
 <details>
   <summary>  The Fall of King's Step 
   </summary> 
-  it's time to Duel! <a href="draftofages.md">Draft of Ages</a>
+  it's time to Duel! <a href="draftofages.html">Draft of Ages</a>
   </details>
