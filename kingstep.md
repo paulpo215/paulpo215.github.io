@@ -5,6 +5,10 @@
     color: white;
     font-family: Papyrus, Copperplate, serif;
   }
+  h1{
+    font-family: Papyrus, Copperplate, serif;
+    color: red
+  }
 </style>
 
 # The Fall of King's Step
