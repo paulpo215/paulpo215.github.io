@@ -1,7 +1,8 @@
 <style>
   body{
-  background: grey;
-    color: red;
+  background: black;
+    color: white;
+    font: papyrus
   }
 </style>
 
