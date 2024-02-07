@@ -2,7 +2,7 @@
   body{
   background: black;
     color: white;
-    font: papyrus
+    font-family: Papyrus, Copperplate, serif;
   }
 </style>
 
