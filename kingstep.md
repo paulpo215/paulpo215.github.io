@@ -1,6 +1,7 @@
 <style>
   body{
   background: black;
+    background-image: url("stonewall.jpg");
     color: white;
     font-family: Papyrus, Copperplate, serif;
   }
