@@ -4,6 +4,9 @@
     background: #E0C9A6;
     font-family: "Lucida Handwriting", "Lucida Console", "Courrier New";
   }
+  h1{
+  color: black
+  }
   h2{
   color: black
   }
