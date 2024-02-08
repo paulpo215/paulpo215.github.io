@@ -4,6 +4,12 @@
     background: #E0C9A6;
     font-family: "Lucida Handwriting", "Lucida Console", "Courrier New";
   }
+  h2{
+  color: black
+  }
+  a{
+  color: green
+  }
 </style>
 
 # Murder on the Transcontinental: Train of Lies
