@@ -1,0 +1,398 @@
+<div id="cookie-banner" class="row w-mob p-mob w-100 p-1">
+        <div class="container " style="max-width:1140px;">
+            <div class="col-md-12 col-12 mb-2 bold mt-2" style="font-size: larger;"><strong>This Website uses cookies</strong></div>
+            <div class="col-md-12 col-12 card rounded shadow border-0 cardC" style="">
+                <p>We use cookies for personalized content, ads, social media features, and website traffic analysis. We may share your site usage details with our partners who may combine it with other information you've provided or they've collected from your use of their services.</p>
+            </div>
+            <div class="col-md-12 col-12 d-block d-md-flex justify-content-between align-items-center" style="text-align:center;">
+                <div class="col-md-4 col-12 mt-3 "><button id="cookie-notification-btn" type="button" class="btn btn-success btn-success1 " style="font-size: smaller !important; width: 85%; padding: 8px 16px 8px !important; ">Accept All Cookies</button></div>
+                <div class="col-md-4 col-12 mt-3 "><button id="cookie-notification-selected" type="button" class="btn btn-success btn-success1 " style="font-size: smaller !important; width: 85%; padding: 8px 16px 8px !important; ">Allow Selected only</button></div>
+                <div class="col-md-4 col-12 mt-3 "><button id="cookie-notification-necessary" type="button" class="btn btn-success btn-success1 " style="font-size: smaller !important; width: 85%; padding: 8px 16px 8px !important; ">Allow Necessary Cookies</button></div>
+            </div>
+
+
+            <hr class="hr-cookie">
+            <div class="col-md-12 col-12 card rounded shadow cardC" style="">
+                <div class=" ">
+
+                    <div class="row mt-3 d-flex justify-content-between align-items-center ">
+
+                        <div class="col-md-2 col-6">
+                            <input id="necessary_check" checked="" type="checkbox" disabled="">
+                            <label for="checkbox1">Necessary</label>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <input type="checkbox" id="preferences_check" checked="">
+                            <label for="checkbox2">Personalization</label>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <input type="checkbox" id="statics_check" checked="">
+                            <label for="checkbox3">Statics</label>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <input type="checkbox" id="marketing_check" checked="">
+                            <label for="checkbox4">Marketing</label>
+                        </div>
+                        <div class="col-md-2 col-12">
+                            <button type="button" id="toggleCookies" style="width: 100%; font-size: smaller !important; padding: 8px 16px 8px !important;" class="btn btn-success btn-success1 ">Details<img id="arrow" src="https://resources.globalair.com/images/arrow-down.svg"></button>
+                        </div>
+
+                    </div>
+                    <hr class="hr-cookie">
+                        <div class="row container" id="cookiesList" style="display:none;">
+
+                            <div class="col-md-3">
+                                <!-- Buttons for switching tables -->
+                                <button id="btnNecessary" class="btn btn-secondary mb-1 tablebtn selected-btn" style="width: 110%; font-size: smaller !important; padding: 8px 16px 8px !important;" onclick="showTable('Necessary')">Necessary</button>
+                                <button id="btnStatics" class="btn btn-secondary mb-1 tablebtn" style="width: 110%; font-size: smaller !important; padding: 8px 16px 8px !important;" onclick="showTable('Statics')">Statics</button>
+                                <button id="btnMarketing" class="btn btn-secondary mb-1 tablebtn" style="width: 110%; font-size: smaller !important; padding: 8px 16px 8px !important;" onclick="showTable('Marketing')">Marketing</button>
+                                <button id="btnUnidentified" class="btn btn-secondary mb-1 tablebtn" style="width: 110%; font-size: smaller !important; padding: 8px 16px 8px !important;" onclick="showTable('Unidentified')">Personalization</button>
+                            </div>
+                            <div class="col-md-9">
+
+                                <div id="Necessary" class="table-container" style="line-height: 1.0 !important; font-size: smaller;">
+
+                                    <table class="table table-bordered">
+                                        <thead>
+                                            <tr>
+
+                                                <th scope="col">Name</th>
+                                                <th scope="col">Provider</th>
+                                                <th scope="col">purpose</th>
+                                                <th scope="col">expiry</th>
+
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+
+                                                <td>GlobalAir</td>
+                                                <td>www.globalair.com</td>
+                                                <td>This browser cookie enables the website to maintain a user's session information, facilitating a personalized browsing experience. It achieves this by presenting content tailored to the user's profile, ensuring relevance and customization.</td>
+                                                <td>1 Month</td>
+
+                                            </tr>
+
+                                            <tr>
+
+                                                <td>AccountTypes</td>
+                                                <td>www.globalair.com</td>
+                                                <td>This browser cookie enables the website to maintain a user's session information, facilitating a personalized browsing experience. It achieves this by presenting content tailored to the user's profile, ensuring relevance and customization.</td>
+                                                <td>1 Month</td>
+
+                                            </tr>
+
+                                            <tr>
+
+                                                <td>cookie-notification</td>
+                                                <td>www.globalair.com</td>
+                                                <td>This cookie is essential for enhancing user experience by enabling the website to remember whether the user has already viewed the cookie notification banner, preventing repeated displays and ensuring a streamlined browsing experience.</td>
+                                                <td>1 year</td>
+
+                                            </tr>
+
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div id="Statics" class="table-container" style="font-size: smaller; display: none; line-height: 1.0 !important">
+                                    <table class="table table-bordered">
+                                        <thead>
+                                            <tr>
+
+                                                <th scope="col">Name</th>
+                                                <th scope="col">Provider</th>
+                                                <th scope="col">purpose</th>
+                                                <th scope="col">expiry</th>
+
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+
+                                                <td>1P_JAR</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is used by Google to collect user statistics and website traffic.</td>
+                                                <td>1 Month</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>NID</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is used by Google to store user preferences and information when viewing pages with Google maps on them.</td>
+                                                <td>6 Months</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>Secure-3PSIDCC</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is set by Google and is used to protect users' data from unauthorized access.</td>
+                                                <td>12 months</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>Secure-1PSIDCC</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is set by Google and is used to protect users' data from unauthorized access.</td>
+                                                <td>12 months</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>SIDCC</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is used by Google to store security settings to protect the user\'s data from unauthorized access.</td>
+                                                <td>2 Year</td>
+                                            </tr>
+                                            <tr>
+
+                                                <td>AID</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is used for Analytics, Advertising</td>
+                                                <td>13 months EEA UK / 540 days elsewhere</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>OTZ</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is used by Google Analytics to anonymously track user preferences and website statistics.</td>
+                                                <td>Session or 2 years</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>UULE</td>
+                                                <td>www.google.com</td>
+                                                <td></td>
+                                                <td></td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>SSID</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is used by Google to store user preferences and information when viewing pages with Google maps on them.</td>
+                                                <td>2 Years</td>
+                                            </tr>
+                                            <tr>
+
+                                                <td>AEC</td>
+                                                <td>www.google.com</td>
+                                                <td></td>
+                                                <td></td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>APISID</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is used to personalise Google ads on websites based on recent searches and interactions.</td>
+                                                <td>2 years</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>SEARCH_SAMESITE</td>
+                                                <td>www.google.com</td>
+                                                <td> This cookie is used to prevent the browser from sending this cookie along with cross-site requests.</td>
+                                                <td>
+                                                    2 Years
+                                                </td>
+
+                                            </tr>
+
+                                            <tr>
+
+                                                <td>_ga</td>
+                                                <td>www.google.com</td>
+                                                <td>Used to distinguish users.</td>
+                                                <td>2 years</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>_ga_K0N37V9FEB</td>
+                                                <td>www.google.com</td>
+                                                <td>Used to distinguish users.</td>
+                                                <td>2 years</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>SAPISID</td>
+                                                <td>www.google.com</td>
+                                                <td>These cookies are used by Google to display personalized advertisements on Google sites, based on recent searches and previous interactions. HSID, SSID, APISID and SAPISID cookies enable Google to collect user information for videos hosted by YouTube.</td>
+                                                <td>2 years</td>
+
+                                            </tr>
+
+                                            <tr>
+
+                                                <td>Secure-1PAPISID</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is set by Google and is used to store user preferences and information when viewing pages with Google maps on them.</td>
+                                                <td>13 months</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>sa-user-id</td>
+                                                <td>facebook.com</td>
+                                                <td>This cookie is a random identifier for user identification.</td>
+                                                <td>1 year</td>
+                                            </tr>
+                                            <tr>
+                                                <td>sa-user-id-v3</td>
+                                                <td>facebook.com</td>
+                                                <td>This cookie is third-party advertising/targeting cookies that track your website activity.</td>
+                                                <td>1 year</td>
+                                            </tr>
+                                            <tr>
+                                                <td>sa-user-id-v2</td>
+                                                <td>facebook.com</td>
+                                                <td>This cookie is third-party advertising/targeting cookies that track your website activity.</td>
+                                                <td>1 year</td>
+                                            </tr>
+                                            <tr>
+
+                                                <td>Secure-1PSIDTS</td>
+                                                <td>www.google.com</td>
+                                                <td>used to authenticate users, store session preferences, and perform security measures.</td>
+                                                <td>13 months</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>HSID</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is set by Google and is used to authenticate users, store session preferences, and perform security measures.</td>
+                                                <td>13 months</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>APC</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is used to measure the Campaign Manager, Display</td>
+                                                <td>3 months</td>
+
+                                            </tr>
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div id="Marketing" class="table-container" style="font-size: smaller; display: none; line-height: 1.0 !important">
+                                    <table class="table table-bordered">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Name</th>
+                                                <th scope="col">Provider</th>
+                                                <th scope="col">Purpose</th>
+                                                <th scope="col">Expiry</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>DV</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is used to provide ad delivery or retargeting.</td>
+                                                <td>1 day</td>
+                                            </tr>
+                                            <tr>
+                                                <td>ar_debug</td>
+                                                <td>googleadservices.com</td>
+                                                <td>This cookie is used to store and track conversions.</td>
+                                                <td>Persistent</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Datr</td>
+                                                <td>facebook.com</td>
+                                                <td>This cookie is used to provide fraud prevention.</td>
+                                                <td>2 years</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>DSID</td>
+                                                <td>.doubleclick.net</td>
+                                                <td>This cookie is used to identify a signed-in user on non-Google sites and to remember whether the user has agreed to ad personalization.</td>
+                                                <td>2 weeks</td>
+                                            </tr>
+                                            <tr>
+                                                <td>fr</td>
+                                                <td>.facebook.com</td>
+                                                <td>This cookie is used to provide ad delivery or retargeting.</td>
+                                                <td>3 months</td>
+                                            </tr>
+                                            <tr>
+                                                <td>APC</td>
+                                                <td>.doubleclick.net</td>
+                                                <td>This cookie is used to measure the Campaign Manager, Display.</td>
+                                                <td>3 months</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div id="Unidentified" class="table-container" style="font-size: smaller; display: none; line-height: 1.0 !important">
+                                    <table class="table table-bordered">
+                                        <thead>
+                                            <tr>
+
+                                                <th scope="col">Name</th>
+                                                <th scope="col">Provider</th>
+                                                <th scope="col">purpose</th>
+                                                <th scope="col">expiry</th>
+
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+                                            <tr>
+
+                                                <td>clsInterest</td>
+                                                <td>www.globalair.com</td>
+                                                <td>This browser cookie enables the website to recall the user's interests, enhancing their overall experience by showcasing pertinent information on the homepage aligned with their categorized interests.</td>
+                                                <td>1 Month</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>GanSrchBookmark</td>
+                                                <td>www.globalair.com</td>
+                                                <td>This browser cookie enables the website to retain the user's most recent search query, ensuring that identical results are displayed during subsequent visits. This functionality enhances the overall user experience by saving time and providing continuity in search outcomes.</td>
+                                                <td>1 Day</td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td>subscribe-box</td>
+                                                <td>www.globalair.com</td>
+                                                <td>The primary function of this cookie is to enables the website to recall whether the user has subscribed to the mailer, preventing repetitive displays of the subscription box and enhancing the user experience.</td>
+                                                <td>1 Year</td>
+
+                                            </tr>
+
+
+                                            <tr>
+
+                                                <td>SID</td>
+                                                <td>www.google.com</td>
+                                                <td>This cookie is used by Google to provide user security during the login process.</td>
+                                                <td>2 Year</td>
+
+                                            </tr>
+
+
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
