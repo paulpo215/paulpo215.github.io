@@ -36,3 +36,6 @@ insert description here
 ### [Yu-gi-oh: Draft of Ages](draftofages.md)
 
 It's time to Duel!
+
+[link](popup.html)
+
