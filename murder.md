@@ -1,5 +1,5 @@
 <style>
-  content-main{
+  main_content{
   color: black;
     background: #E0C9A6;
     font-family: "Lucida Handwriting", "Lucida Console", "Courrier New";
