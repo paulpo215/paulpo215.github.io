@@ -3,7 +3,7 @@
   color: black;
     background: #E0C9A6;
     font-family: "Lucida Handwriting", "Lucida Console", "Courrier New";
-    width: 100vw;
+    max-width: 2000px;
   }
   h1{
   color: black
