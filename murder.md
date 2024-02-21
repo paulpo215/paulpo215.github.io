@@ -1,8 +1,9 @@
 <style>
-  .container {
+  #main_content {
   color: black;
     background: #E0C9A6;
     font-family: "Lucida Handwriting", "Lucida Console", "Courrier New";
+    width: 100vw;
   }
   h1{
   color: black
