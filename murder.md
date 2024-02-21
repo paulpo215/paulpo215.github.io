@@ -15,8 +15,6 @@
   }
 </style>
 
-<div class="content-main">
-
 # Murder on the Transcontinental: Train of Lies
 
 ## History
@@ -25,4 +23,3 @@ The year is 1902, the west is dead. the great boom of westward expansion, homest
 
 [Back to Main](README.md)
 
-</div>
