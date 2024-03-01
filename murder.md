@@ -9,11 +9,11 @@
     
   }
   header{
-    background: rgba(0,0,0,0.1);
-    width: 100%;
+        background: black;
+    width: 100vw;
+    position: sticky;
     border-bottom: 1px dashed #b5e853;
     padding: 20px 0;
-    max-width: 1000px
   }
   h1{
   color: black
