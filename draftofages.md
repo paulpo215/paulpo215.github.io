@@ -1,3 +1,16 @@
+<style>
+  body { 
+    color: black;
+    background-image: RUSH_CardBack-703x445.webp;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    max-width: 2000px; }
+  .container{ } 
+  header{ background: black; width: 100vw; position: sticky; border-bottom: 1px dashed #b5e853; padding: 20px 0; }
+  h1{ color: black }
+  h2{ color: black } 
+  a{ color: green } 
+</style>
+
 # Yu-gi-oh: Draft of Ages 
 
 ## Rules
