@@ -10,8 +10,8 @@
     max-width: 2000px; }
   .container{ } 
   header{ background: black; width: 100vw; position: sticky; border-bottom: 1px dashed #b5e853; padding: 20px 0; }
-  h1{ color: black }
-  h2{ color: black } 
+  h1{ color: white }
+  h2{ color: white } 
   a{ color: green } 
 </style>
 
