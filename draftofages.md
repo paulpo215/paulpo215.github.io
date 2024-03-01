@@ -1,7 +1,11 @@
 <style>
   body { 
-    color: black;
-    background-image: url("RUSH_CardBack-703x445.webp");
+    color: white;
+    background-image: url("RUSH_CardBack-703x445.webp") no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
     font-family: Roboto, Helvetica, Arial, sans-serif;
     max-width: 2000px; }
   .container{ } 
