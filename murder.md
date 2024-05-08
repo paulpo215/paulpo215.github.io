@@ -35,6 +35,8 @@ The year is 1902, the west is dead. the great boom of westward expansion, homest
 
 ## Characters
 
+This is a game of mystery and murder, who murdered the victim and what other nafarious schemes are at play is a mystery, every character has secret knowledge and agendas. if you would like more info please message me on this page [Murder on the Transcontinental](https://tabletop.events/conventions/origins-game-fair-2024/schedule/6093)
+
 Jane Siewert: a rich heiress, she travels with her father's man "Big Paulie"
 
 "Big Paulie" Geovani: a friend of the Siewert family, a tough customer, but devoted.
