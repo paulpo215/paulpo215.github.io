@@ -3,7 +3,7 @@
 ## Overview
 Game Phylactery is a small, dedicated group of Game Masters and organizers that believe that games are essential as a friendship building and storytelling medium above all others. we come from many walks of live, but we all unite to bring you the best experiences we can, and we hope you will enjoy our games.
 
-Check out our games at Origins this year: [Origins Game Catalogue](https://tabletop.events/conventions/origins-game-fair-2024/schedule#?query=Game%20Phylactery)
+Check out our games at Cin City Con this year: [Cin City Game Catalogue](https://tabletop.events/conventions/cincitycon-2024-tabletop-gaming-convention/schedule#?user_id=99C9CCC0-94E6-11EC-BD3F-AA97C452AE38)
 
 ## RPGs
 
