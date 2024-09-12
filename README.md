@@ -26,7 +26,7 @@ Check out our games at Origins this year: [Origins Game Catalogue](https://table
 
 
 
-## Archived Games
+# Archived Games
 
 These are some games from past cons, feel free to read about them, and look for us at Origins 2025 and River City Con 2025
 
