@@ -1,4 +1,4 @@
-# Origins 2024
+# Cin City Con 2024
 ![Game Phylactery](Purple_Logo.png)
 ## Overview
 Game Phylactery is a small, dedicated group of Game Masters and organizers that believe that games are essential as a friendship building and storytelling medium above all others. we come from many walks of live, but we all unite to bring you the best experiences we can, and we hope you will enjoy our games.
@@ -7,9 +7,7 @@ Check out our games at Origins this year: [Origins Game Catalogue](https://table
 
 ## RPGs
 
-### [Mountain of Lies](mountain.md)
 
-  An agent, thought lost has resurfaced, can you rescue him before he disappears again? do you have what it takes to scale The Mountain of Lies?
 
 ### [Star Wars: A Simple Job](simplejob.md)
 
@@ -21,7 +19,22 @@ Check out our games at Origins this year: [Origins Game Catalogue](https://table
   The city of King's Step is about be attacked by an unstoppable hoard, who will be? Saviour? Oportunist? Dictator? all will be revealed during the Fall of King's Step
 
 
-## LARPs
+### [Manor of Lies](manor.md)
+
+ Infiltrate a party, find the leak, and plug the leak. should be simple for spies of your calibur
+
+
+
+
+## Archived Games
+
+These are some games from past cons, feel free to read about them, and look for us at Origins 2025 and River City Con 2025
+
+### [Mountain of Lies](mountain.md)
+
+  An agent, thought lost has resurfaced, can you rescue him before he disappears again? do you have what it takes to scale The Mountain of Lies?
+
+  ## LARPs
 
 ### [Murder of the Transcontinental](murder.md)
 
