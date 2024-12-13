@@ -1,4 +1,4 @@
-# Cin City Con 2024
+# River City Con 2025
 ![Game Phylactery](Purple_Logo.png)
 ## Overview
 Game Phylactery is a small, dedicated group of Game Masters and organizers that believe that games are essential as a friendship building and storytelling medium above all others. we come from many walks of live, but we all unite to bring you the best experiences we can, and we hope you will enjoy our games.
@@ -22,6 +22,10 @@ Check out our games at Cin City Con this year: [Cin City Game Catalogue](https:/
 ### [Manor of Lies](manor.md)
 
  Infiltrate a party, find the leak, and plug the leak. should be simple for spies of your calibur
+
+### [Sea of Lies](sea.md)
+
+ Gain access to the cruise ship, find the lost inheritors of the Volkov fortune, and gather any intel you can. 
 
 
 
