@@ -27,6 +27,10 @@ Check out our games at Cin City Con this year: [Cin City Game Catalogue](https:/
 
  Gain access to the cruise ship, find the lost inheritors of the Volkov fortune, and gather any intel you can. 
 
+ ### [Daemon's Reach](dark.md)
+
+ In the grim darkness of the 41st millenium, there is only war. Even withing the borders of the Empire, Heretics and Demonic cults seek to undo the light of the God Emperor. You, new initiates, are all that stands between humanity and the forces of choas.
+
 
 
 
