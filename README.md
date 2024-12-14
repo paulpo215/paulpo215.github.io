@@ -31,8 +31,9 @@ Check out our games at Cin City Con this year: [Cin City Game Catalogue](https:/
 
  In the grim darkness of the 41st millenium, there is only war. Even withing the borders of the Empire, Heretics and Demonic cults seek to undo the light of the God Emperor. You, new initiates, are all that stands between humanity and the forces of choas.
 
+ ### [House of Betrayal](betrayal.md)
 
-
+Explore a sinister and mysterious house on the hill. Face horrors, betrayals, and fears in this explorative, horror themed RPG adventure where anything can happen. 
 
 # Archived Games
 
