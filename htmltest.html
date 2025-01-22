@@ -3,7 +3,10 @@
     padding: .5rem .5rem;
     
 }
-
+.table-striped>tbody>tr:nth-of-type(odd)>* {
+    --bs-table-accent-bg: var(--bs-table-striped-bg);
+    color: var(--bs-table-striped-color);
+}
 table td, table th {
     padding: 1em;
     border-right: 1px solid #535353;
