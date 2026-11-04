@@ -15,10 +15,13 @@ Check out our games at Origins this year: [Origins Catalogue](https://tabletop.e
 #### Mortal Plane Improv
 
 "But John!" I hear you say, "Aren't all RPGs a form of Improv?"
+
 Now look here kiddo, there's improv, and then there's Improv. In this game, you will get to put me, the GM on the spot, and see how I adapt to your demands on the fly.
-The rules are simple. each player will be asked, in a circle, for a number of elements. they can say anything their heart desires. then after all elements have been written down, the players will create characters, and we will begin playing. 
+The rules are simple. each player will be asked, in a circle, for a number of elements. they can say anything their heart desires. then after all elements have been written down, the players will create characters, and we will begin playing.
+
 I, as the game master, will need to incorporate all your elements into a coherent and enjoyable one shot, or your money back (this is a free event.).
 You up for a wild and reckless time?
+
 (The mortal plane is a high fantasy setting, but it is flexible if you desire to introduce off the cuff elements.)
 
 #### Mortal Plane: The 13 Trumps of DOOM!
