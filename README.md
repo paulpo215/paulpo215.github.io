@@ -6,9 +6,9 @@
 
 Game Phylactery is a small, dedicated group of Game Masters and organizers that believe that games are essential as a friendship building and storytelling medium above all others. we come from many walks of live, but we all unite to bring you the best experiences we can, and we hope you will enjoy our games.
 
-## Origins 2026
+## Origins 2027
 
-Check out our games at Origins this year: [Origins Catalogue](https://tabletop.events/conventions/origins-game-fair-2026/schedule#?query=Game%20Phylacery%20-draconic&filter_liked=0&day_id=&eventtype_id=&startdaypart_id=)
+Check out our games at Origins this year: [Origins Catalogue](https://tabletop.events/conventions/origins-game-fair-2027/schedule#?query=Game%20Phylacery%20-draconic&filter_liked=0&day_id=&eventtype_id=&startdaypart_id=)
 
 ### RPGs
 
@@ -20,6 +20,10 @@ The rules are simple. each player will be asked, in a circle, for a number of el
 I, as the game master, will need to incorporate all your elements into a coherent and enjoyable one shot, or your money back (this is a free event.).
 You up for a wild and reckless time?
 (The mortal plane is a high fantasy setting, but it is flexible if you desire to introduce off the cuff elements.)
+
+#### Mortal Plane: The 13 Trumps of DOOM!
+
+A simple request, a huge reward. collect 13 fortune teller's cards and return them for a magical reward beyond your wildest dreams. only, it turns out the trumps have the power to twist the very fabric of reality, which might make collecting them a bit more tricky. 
 
 ### LARPs
 
@@ -35,9 +39,9 @@ It's the roaring 20s, the booze flows free (under the table, obviously), the eco
 
 When the fate of humanity is on the line, can our Fearless Leaders™ work with the Best and Brightest™ to prevent the End of the World?
 
-#### The Trouble at Pub 2
+#### The World's End Fair
 
-It's Halloween night, the business trickle into Pub 2, and everyone is gearing up for a relaxing evening, and a little more wheeling and dealing, with any luck nothing will go wrong, or perhaps it already has and no one has found out yet?
+An eccentric inventor, a cunning businessman, a jingoist president, a famed activist, and perhaps a conniving criminal. All these people brought together into one place at one time for a great reveal, but will it be the triumph of American ingenuity or will it be a disaster that will not soon be forgotten? 
 
 #### Boardroom of Lies
 
@@ -87,7 +91,9 @@ Explore a sinister and mysterious house on the hill. Face horrors, betrayals, an
 
 ### LARPs
 
-all are being played currently
+#### The Trouble at Pub 2
+
+It's Halloween night, the business trickle into Pub 2, and everyone is gearing up for a relaxing evening, and a little more wheeling and dealing, with any luck nothing will go wrong, or perhaps it already has and no one has found out yet?
   
 ### Other
 
